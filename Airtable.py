@@ -1,7 +1,7 @@
 from airtable import Airtable  #python has in-build lib to work on airtable
 
 try:
-    base_key = 'appT41cyXCI2uF9dM'  # Base ID of your working base
+    base_key = 'appT41cyXCI2uF9dM'  # Base ID of working base
     table_name = 'Data_pattern'  # name of the table in your working base
     api_key = 'keykdQiIrNHHt3az8'  # API Key
 except Exception:
